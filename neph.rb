@@ -1,7 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook.html
-#                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-
 class Neph < Formula
   desc "A modern command line job processor, similar with make command"
   homepage "https://tbrand.github.io/neph/"
