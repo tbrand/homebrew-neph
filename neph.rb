@@ -1,8 +1,8 @@
 class Neph < Formula
   desc "A modern command line job processor, similar with make command"
   homepage "https://tbrand.github.io/neph/"
-  url "https://github.com/tbrand/neph/releases/download/v0.1.14/neph"
-  sha256 "e7c01bd07033b84a4eaf26f027e9c7d3f28324f67feb9ef30ff3cf4674b9886e"
+  url "https://github.com/tbrand/neph/releases/download/v0.1.19/neph"
+  sha256 "9d0658bacba4a36c1cdc27b4f5180c506da407bb96d9a06b1e135452ae617b09"
   # openssl dgst -sha256 path_to/neph
 
   def install
