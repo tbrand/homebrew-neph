@@ -5,6 +5,8 @@ class Neph < Formula
   sha256 "9d0658bacba4a36c1cdc27b4f5180c506da407bb96d9a06b1e135452ae617b09"
   # openssl dgst -sha256 path_to/neph
 
+  depends_on "libyaml"
+
   def install
     bin.install 'neph'
   end
